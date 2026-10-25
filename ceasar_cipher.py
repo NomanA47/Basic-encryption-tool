@@ -1,6 +1,6 @@
 """
-DecodeLabs - Cyber Security - Project 2
-Basic Encryption & Decryption (Caesar Cipher)
+Basic Encryption & Decryption Tool
+Caesar Cipher Implementation in Python
 
 IPO model:
   Input   -> plaintext + shift key from the user
