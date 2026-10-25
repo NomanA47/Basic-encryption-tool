@@ -1,8 +1,6 @@
 # Project2
 # Caesar Cipher: Basic Encryption & Decryption
 
-Project 2 of the DecodeLabs Cyber Security Industrial Training Kit (Batch 2026).
-
 A small Python command-line tool that encrypts a message with a Caesar cipher, decrypts it back, and checks that the result matches the original.
 
 ## How it works
